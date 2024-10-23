@@ -6,12 +6,12 @@ export const ExcalidrawPlusAppLink = () => {
   }
   return (
     <a
-      href={`?utm_source=k&utm_medium=app&utm_content=signedInUserRedirectButton#-redirect`}
+      href={`?utm_&utm_content=signerRedirectButton#-redirect`}
       target="_blank"
       rel="noreferrer"
       className="plus-button"
     >
-      Go to Excalidraw+
+      Go to graphiteXdraw+
     </a>
   );
 };

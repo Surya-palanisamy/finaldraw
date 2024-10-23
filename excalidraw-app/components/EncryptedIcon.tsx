@@ -8,7 +8,6 @@ export const EncryptedIcon = () => {
   return (
     <a
       className="encrypted-icon tooltip"
-      href="https://blog.excalidraw.com/end-to-end-encryption/"
       target="_blank"
       rel="noopener noreferrer"
       aria-label={t("encrypted.link")}
