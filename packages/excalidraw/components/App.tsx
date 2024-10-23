@@ -1262,7 +1262,7 @@ class App extends React.Component<AppProps, AppState> {
                       // https://stackoverflow.com/q/18470015
                       scrolling="no"
                       referrerPolicy="no-referrer-when-downgrade"
-                      title="Excalidraw Embedded Content"
+                      title="GrpahiteXdraw"
                       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                       allowFullScreen={true}
                       sandbox={`${

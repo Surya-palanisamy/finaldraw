@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 
-// In order to use this, you need to install Cairo on your machine. See
-// instructions here: https://github.com/Automattic/node-canvas#compiling
+
 
 // In order to run:
 //   npm install canvas # please do not check it in
