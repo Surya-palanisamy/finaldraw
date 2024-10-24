@@ -6,7 +6,7 @@ export const ExcalidrawPlusAppLink = () => {
   }
   return (
     <a
-      href={`?utm_&utm_content=signerRedirectButton#-redirect`}
+      href={`?utm_&content=sitButton#-redirect`}
       target="_blank"
       rel="noreferrer"
       className="plus-button"

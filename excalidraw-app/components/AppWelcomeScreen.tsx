@@ -43,12 +43,6 @@ export const AppWelcomeScreen: React.FC<{
       <WelcomeScreen.Hints.ToolbarHint />
       <WelcomeScreen.Hints.HelpHint />
       <WelcomeScreen.Center>
-        <img
-          src="https://img.icons8.com/ios/50/github--v1.png"
-          alt="graphiteXdraw Logo"
-          style={{ width: "150px", height: "auto" }}
-        />
-
         <WelcomeScreen.Center.Heading>
           {headingContent}
         </WelcomeScreen.Center.Heading>
